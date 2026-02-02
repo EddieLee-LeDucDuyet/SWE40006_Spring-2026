@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AppInstaller
+	Uri="file:///C:/Users/Admin/Desktop/SWE/Deployment Portfolio Task 1/WindowsAppPackagingTask1.appinstaller"
+	Version="1.0.0.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
+	<MainBundle
+		Name="93de2426-0905-4fe2-8246-d09189406f69"
+		Version="1.0.0.0"
+		Publisher="CN=Admin"
+		Uri="file:///C:/Users/Admin/Desktop/SWE/Deployment Portfolio Task 1/WindowsAppPackagingTask1_1.0.0.0_Debug_Test/WindowsAppPackagingTask1_1.0.0.0_AnyCPU_Debug.msixbundle" />
+	<UpdateSettings>
+		<OnLaunch
+			HoursBetweenUpdateChecks="0" />
+	</UpdateSettings>
+</AppInstaller>

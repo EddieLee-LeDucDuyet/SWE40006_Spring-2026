@@ -1,0 +1,11 @@
+D:\code\SWE40006\AppLibrary1\bin\Debug\net10.0\AppLibrary1.deps.json
+D:\code\SWE40006\AppLibrary1\bin\Debug\net10.0\AppLibrary1.dll
+D:\code\SWE40006\AppLibrary1\bin\Debug\net10.0\AppLibrary1.pdb
+D:\code\SWE40006\AppLibrary1\obj\Debug\net10.0\AppLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\SWE40006\AppLibrary1\obj\Debug\net10.0\AppLibrary1.AssemblyInfoInputs.cache
+D:\code\SWE40006\AppLibrary1\obj\Debug\net10.0\AppLibrary1.AssemblyInfo.cs
+D:\code\SWE40006\AppLibrary1\obj\Debug\net10.0\AppLibrary1.csproj.CoreCompileInputs.cache
+D:\code\SWE40006\AppLibrary1\obj\Debug\net10.0\AppLibrary1.dll
+D:\code\SWE40006\AppLibrary1\obj\Debug\net10.0\refint\AppLibrary1.dll
+D:\code\SWE40006\AppLibrary1\obj\Debug\net10.0\AppLibrary1.pdb
+D:\code\SWE40006\AppLibrary1\obj\Debug\net10.0\ref\AppLibrary1.dll

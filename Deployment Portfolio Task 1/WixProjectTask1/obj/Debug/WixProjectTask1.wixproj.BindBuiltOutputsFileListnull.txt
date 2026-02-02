@@ -1,0 +1,2 @@
+D:\code\SWE40006\WixProjectTask1\bin\Debug\WixProjectTask1.msi
+D:\code\SWE40006\WixProjectTask1\bin\Debug\WixProjectTask1.wixpdb

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
+	<Product Id="*" Name="WixProjectTask1" Language="1033" Version="1.0.0.0" Manufacturer="Le_Duc_Duyet" UpgradeCode="ee2f8282-a1ca-4939-ae1e-39c092b4cdce">
+		<Package InstallerVersion="200" Compressed="yes" InstallScope="perMachine" />
+
+		<MajorUpgrade DowngradeErrorMessage="A newer version of [ProductName] is already installed." />
+		<MediaTemplate EmbedCab="yes" />
+
+		<Feature Id="ProductFeature" Title="WixProjectTask1" Level="1">
+			<ComponentGroupRef Id="ProductComponents" />
+		</Feature>
+	</Product>
+
+	<Fragment>
+		<Directory Id="TARGETDIR" Name="SourceDir">
+			<Directory Id="ProgramFilesFolder">
+				<Directory Id="APPINSTALLER" Name="WixProjectTask1" />
+			</Directory>
+		</Directory>
+	</Fragment>
+
+	<Fragment>
+		<ComponentGroup Id="ProductComponents" Directory="APPINSTALLER">
+
+			<!-- Original EXE Component -->
+			<Component Id="AppDeployTask1.exe" Guid="A75DF53A-3B03-49B3-B322-48E7119D7E43">
+				<File Id="AppDeployTask1.exe"
+					  Name="AppDeployTask1.exe"
+					  Source="$(var.AppDeployTask1.TargetDir)AppDeployTask1.exe" />
+			</Component>
+
+			<!-- NEW DLL Component -->
+			<Component Id="AppLibrary1.dll" Guid="54E1F57E-C5E2-4F5B-B080-35567AF04CF8">
+				<File Id="AppLibrary1.dll"
+					  Name="AppLibrary1.dll"
+					  Source="$(var.AppDeployTask1.TargetDir)AppLibrary1.dll" />
+			</Component>
+
+		</ComponentGroup>
+	</Fragment>
+</Wix>

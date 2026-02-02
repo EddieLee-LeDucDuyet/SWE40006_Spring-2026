@@ -1,0 +1,2 @@
+D:\code\SWE40006\AppDeployTask1\bin\Debug\AppDeployTask1.exe
+D:\code\SWE40006\AppDeployTask1\bin\Debug\AppLibrary1.dll

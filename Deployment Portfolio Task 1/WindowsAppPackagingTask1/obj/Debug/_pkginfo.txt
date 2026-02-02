@@ -1,0 +1,1 @@
+D:\code\SWE40006\WindowsAppPackagingTask1\AppPackages\WindowsAppPackagingTask1_1.0.0.0_Debug_Test\WindowsAppPackagingTask1_1.0.0.0_AnyCPU_Debug.msixbundle
