@@ -1,28 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\code\\SWE40006\\AppDeployTask1\\",
+  "WorkspaceRootPath": "D:\\code\\SWE40006_Spring-2026\\Deployment Portfolio Task 1\\AppDeployTask1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EC5073CF-13E3-4AA1-9A6F-CF245CBAB225}|..\\WixProjectTask1\\WixProjectTask1.wixproj|D:\\code\\SWE40006\\WixProjectTask1\\Product.wxs||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{CD47F31A-5A2C-C98B-B915-2E9A74FFD66C}|..\\WindowsAppPackagingTask1\\WindowsAppPackagingTask1.wapproj|d:\\code\\swe40006_spring-2026\\deployment portfolio task 1\\windowsapppackagingtask1\\images\\storelogo.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{794D5768-B59F-4542-89AF-FEABFCA665F2}|AppDeployTask1.csproj|d:\\code\\swe40006\\appdeploytask1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{794D5768-B59F-4542-89AF-FEABFCA665F2}|AppDeployTask1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CD47F31A-5A2C-C98B-B915-2E9A74FFD66C}|..\\WindowsAppPackagingTask1\\WindowsAppPackagingTask1.wapproj|d:\\code\\swe40006_spring-2026\\deployment portfolio task 1\\windowsapppackagingtask1\\images\\square44x44logo.scale-200.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{794D5768-B59F-4542-89AF-FEABFCA665F2}|AppDeployTask1.csproj|d:\\code\\swe40006\\appdeploytask1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{794D5768-B59F-4542-89AF-FEABFCA665F2}|AppDeployTask1.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CD47F31A-5A2C-C98B-B915-2E9A74FFD66C}|..\\WindowsAppPackagingTask1\\WindowsAppPackagingTask1.wapproj|d:\\code\\swe40006_spring-2026\\deployment portfolio task 1\\windowsapppackagingtask1\\images\\square150x150logo.scale-200.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{794D5768-B59F-4542-89AF-FEABFCA665F2}|AppDeployTask1.csproj|d:\\code\\swe40006\\appdeploytask1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{794D5768-B59F-4542-89AF-FEABFCA665F2}|AppDeployTask1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CD47F31A-5A2C-C98B-B915-2E9A74FFD66C}|..\\WindowsAppPackagingTask1\\WindowsAppPackagingTask1.wapproj|d:\\code\\swe40006_spring-2026\\deployment portfolio task 1\\windowsapppackagingtask1\\images\\lockscreenlogo.scale-200.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{794D5768-B59F-4542-89AF-FEABFCA665F2}|AppDeployTask1.csproj|d:\\code\\swe40006\\appdeploytask1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{CD47F31A-5A2C-C98B-B915-2E9A74FFD66C}|..\\WindowsAppPackagingTask1\\WindowsAppPackagingTask1.wapproj|d:\\code\\swe40006_spring-2026\\deployment portfolio task 1\\windowsapppackagingtask1\\images\\splashscreen.scale-200.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5073CF-13E3-4AA1-9A6F-CF245CBAB225}|..\\WixProjectTask1\\WixProjectTask1.wixproj|D:\\code\\SWE40006_Spring-2026\\Deployment Portfolio Task 1\\WixProjectTask1\\Product.wxs||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{794D5768-B59F-4542-89AF-FEABFCA665F2}|AppDeployTask1.csproj|D:\\code\\SWE40006_Spring-2026\\Deployment Portfolio Task 1\\AppDeployTask1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{794D5768-B59F-4542-89AF-FEABFCA665F2}|AppDeployTask1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA76DDB8-C9DC-41DD-9D6F-1178DB063136}|..\\AppLibrary1\\AppLibrary1.csproj|d:\\code\\swe40006\\applibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\code\\SWE40006\\WixProjectTask1\\Product.wxs||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{794D5768-B59F-4542-89AF-FEABFCA665F2}|AppDeployTask1.csproj|D:\\code\\SWE40006_Spring-2026\\Deployment Portfolio Task 1\\AppDeployTask1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{794D5768-B59F-4542-89AF-FEABFCA665F2}|AppDeployTask1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{794D5768-B59F-4542-89AF-FEABFCA665F2}|AppDeployTask1.csproj|D:\\code\\SWE40006_Spring-2026\\Deployment Portfolio Task 1\\AppDeployTask1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{794D5768-B59F-4542-89AF-FEABFCA665F2}|AppDeployTask1.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{794D5768-B59F-4542-89AF-FEABFCA665F2}|AppDeployTask1.csproj|D:\\code\\SWE40006_Spring-2026\\Deployment Portfolio Task 1\\AppDeployTask1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{794D5768-B59F-4542-89AF-FEABFCA665F2}|AppDeployTask1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\code\\SWE40006\\AppLibrary1\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,88 +50,154 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StoreLogo.png",
+              "DocumentMoniker": "D:\\code\\SWE40006_Spring-2026\\Deployment Portfolio Task 1\\WindowsAppPackagingTask1\\Images\\StoreLogo.png",
+              "RelativeDocumentMoniker": "..\\WindowsAppPackagingTask1\\Images\\StoreLogo.png",
+              "ToolTip": "D:\\code\\SWE40006_Spring-2026\\Deployment Portfolio Task 1\\WindowsAppPackagingTask1\\Images\\StoreLogo.png",
+              "RelativeToolTip": "..\\WindowsAppPackagingTask1\\Images\\StoreLogo.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-02-02T19:50:42.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Square44x44Logo.scale-200.png",
+              "DocumentMoniker": "D:\\code\\SWE40006_Spring-2026\\Deployment Portfolio Task 1\\WindowsAppPackagingTask1\\Images\\Square44x44Logo.scale-200.png",
+              "RelativeDocumentMoniker": "..\\WindowsAppPackagingTask1\\Images\\Square44x44Logo.scale-200.png",
+              "ToolTip": "D:\\code\\SWE40006_Spring-2026\\Deployment Portfolio Task 1\\WindowsAppPackagingTask1\\Images\\Square44x44Logo.scale-200.png",
+              "RelativeToolTip": "..\\WindowsAppPackagingTask1\\Images\\Square44x44Logo.scale-200.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-02-02T19:50:40.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Square150x150Logo.scale-200.png",
+              "DocumentMoniker": "D:\\code\\SWE40006_Spring-2026\\Deployment Portfolio Task 1\\WindowsAppPackagingTask1\\Images\\Square150x150Logo.scale-200.png",
+              "RelativeDocumentMoniker": "..\\WindowsAppPackagingTask1\\Images\\Square150x150Logo.scale-200.png",
+              "ToolTip": "D:\\code\\SWE40006_Spring-2026\\Deployment Portfolio Task 1\\WindowsAppPackagingTask1\\Images\\Square150x150Logo.scale-200.png",
+              "RelativeToolTip": "..\\WindowsAppPackagingTask1\\Images\\Square150x150Logo.scale-200.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-02-02T19:50:39.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LockScreenLogo.scale-200.png",
+              "DocumentMoniker": "D:\\code\\SWE40006_Spring-2026\\Deployment Portfolio Task 1\\WindowsAppPackagingTask1\\Images\\LockScreenLogo.scale-200.png",
+              "RelativeDocumentMoniker": "..\\WindowsAppPackagingTask1\\Images\\LockScreenLogo.scale-200.png",
+              "ToolTip": "D:\\code\\SWE40006_Spring-2026\\Deployment Portfolio Task 1\\WindowsAppPackagingTask1\\Images\\LockScreenLogo.scale-200.png",
+              "RelativeToolTip": "..\\WindowsAppPackagingTask1\\Images\\LockScreenLogo.scale-200.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-02-02T19:50:36.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SplashScreen.scale-200.png",
+              "DocumentMoniker": "D:\\code\\SWE40006_Spring-2026\\Deployment Portfolio Task 1\\WindowsAppPackagingTask1\\Images\\SplashScreen.scale-200.png",
+              "RelativeDocumentMoniker": "..\\WindowsAppPackagingTask1\\Images\\SplashScreen.scale-200.png",
+              "ToolTip": "D:\\code\\SWE40006_Spring-2026\\Deployment Portfolio Task 1\\WindowsAppPackagingTask1\\Images\\SplashScreen.scale-200.png",
+              "RelativeToolTip": "..\\WindowsAppPackagingTask1\\Images\\SplashScreen.scale-200.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-02-02T19:50:33.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.wxs",
+              "DocumentMoniker": "D:\\code\\SWE40006_Spring-2026\\Deployment Portfolio Task 1\\WixProjectTask1\\Product.wxs",
+              "RelativeDocumentMoniker": "..\\WixProjectTask1\\Product.wxs",
+              "ToolTip": "D:\\code\\SWE40006_Spring-2026\\Deployment Portfolio Task 1\\WixProjectTask1\\Product.wxs",
+              "RelativeToolTip": "..\\WixProjectTask1\\Product.wxs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-02-02T19:40:49.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.wxs",
+              "DocumentMoniker": "D:\\code\\SWE40006\\WixProjectTask1\\Product.wxs",
+              "RelativeDocumentMoniker": "..\\..\\..\\SWE40006\\WixProjectTask1\\Product.wxs",
+              "ToolTip": "D:\\code\\SWE40006\\WixProjectTask1\\Product.wxs",
+              "RelativeToolTip": "..\\..\\..\\SWE40006\\WixProjectTask1\\Product.wxs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-02-02T18:56:33.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\code\\SWE40006\\AppLibrary1\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\SWE40006\\AppLibrary1\\Class1.cs",
+              "ToolTip": "D:\\code\\SWE40006\\AppLibrary1\\Class1.cs",
+              "RelativeToolTip": "..\\..\\..\\SWE40006\\AppLibrary1\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T18:53:17.495Z"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "D:\\code\\SWE40006\\AppDeployTask1\\Form1.Designer.cs",
+              "DocumentMoniker": "D:\\code\\SWE40006_Spring-2026\\Deployment Portfolio Task 1\\AppDeployTask1\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "Form1.Designer.cs",
-              "ToolTip": "D:\\code\\SWE40006\\AppDeployTask1\\Form1.Designer.cs",
+              "ToolTip": "D:\\code\\SWE40006_Spring-2026\\Deployment Portfolio Task 1\\AppDeployTask1\\Form1.Designer.cs",
               "RelativeToolTip": "Form1.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T19:17:38.198Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-02T19:17:38.198Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\code\\SWE40006\\AppDeployTask1\\Form1.cs",
+              "DocumentMoniker": "D:\\code\\SWE40006_Spring-2026\\Deployment Portfolio Task 1\\AppDeployTask1\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\code\\SWE40006\\AppDeployTask1\\Form1.cs",
+              "ToolTip": "D:\\code\\SWE40006_Spring-2026\\Deployment Portfolio Task 1\\AppDeployTask1\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T19:18:47.457Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-02T19:18:47.457Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\code\\SWE40006\\AppDeployTask1\\Program.cs",
+              "DocumentMoniker": "D:\\code\\SWE40006_Spring-2026\\Deployment Portfolio Task 1\\AppDeployTask1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\code\\SWE40006\\AppDeployTask1\\Program.cs",
+              "ToolTip": "D:\\code\\SWE40006_Spring-2026\\Deployment Portfolio Task 1\\AppDeployTask1\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAIAwwBIAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T19:17:32.51Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-02T19:17:32.51Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Product.wxs",
-              "DocumentMoniker": "D:\\code\\SWE40006\\WixProjectTask1\\Product.wxs",
-              "RelativeDocumentMoniker": "..\\WixProjectTask1\\Product.wxs",
-              "ToolTip": "D:\\code\\SWE40006\\WixProjectTask1\\Product.wxs",
-              "RelativeToolTip": "..\\WixProjectTask1\\Product.wxs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-02-02T18:56:33.789Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\code\\SWE40006\\AppLibrary1\\Class1.cs",
-              "RelativeDocumentMoniker": "..\\AppLibrary1\\Class1.cs",
-              "ToolTip": "D:\\code\\SWE40006\\AppLibrary1\\Class1.cs",
-              "RelativeToolTip": "..\\AppLibrary1\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T18:53:17.495Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\code\\SWE40006\\AppDeployTask1\\Form1.cs",
+              "DocumentMoniker": "D:\\code\\SWE40006_Spring-2026\\Deployment Portfolio Task 1\\AppDeployTask1\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\code\\SWE40006\\AppDeployTask1\\Form1.cs [Design]",
+              "ToolTip": "D:\\code\\SWE40006_Spring-2026\\Deployment Portfolio Task 1\\AppDeployTask1\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T18:52:32.755Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-02-02T18:52:32.755Z"
             }
           ]
         }

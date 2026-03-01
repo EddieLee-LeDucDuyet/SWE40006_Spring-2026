@@ -1,11 +1,11 @@
-D:\code\SWE40006\WindowsAppPackagingTask1\Images\SplashScreen.scale-200.png
-D:\code\SWE40006\WindowsAppPackagingTask1\Images\LockScreenLogo.scale-200.png
-D:\code\SWE40006\WindowsAppPackagingTask1\Images\Square150x150Logo.scale-200.png
-D:\code\SWE40006\WindowsAppPackagingTask1\Images\Square44x44Logo.scale-200.png
-D:\code\SWE40006\WindowsAppPackagingTask1\Images\Square44x44Logo.targetsize-24_altform-unplated.png
-D:\code\SWE40006\WindowsAppPackagingTask1\Images\StoreLogo.png
-D:\code\SWE40006\WindowsAppPackagingTask1\Images\Wide310x150Logo.scale-200.png
-D:\code\SWE40006\WindowsAppPackagingTask1\bin\AnyCPU\Debug\resources.pri
+D:\code\SWE40006_Spring-2026\Deployment Portfolio Task 1\WindowsAppPackagingTask1\Images\SplashScreen.scale-200.png
+D:\code\SWE40006_Spring-2026\Deployment Portfolio Task 1\WindowsAppPackagingTask1\Images\LockScreenLogo.scale-200.png
+D:\code\SWE40006_Spring-2026\Deployment Portfolio Task 1\WindowsAppPackagingTask1\Images\Square150x150Logo.scale-200.png
+D:\code\SWE40006_Spring-2026\Deployment Portfolio Task 1\WindowsAppPackagingTask1\Images\Square44x44Logo.scale-200.png
+D:\code\SWE40006_Spring-2026\Deployment Portfolio Task 1\WindowsAppPackagingTask1\Images\Square44x44Logo.targetsize-24_altform-unplated.png
+D:\code\SWE40006_Spring-2026\Deployment Portfolio Task 1\WindowsAppPackagingTask1\Images\StoreLogo.png
+D:\code\SWE40006_Spring-2026\Deployment Portfolio Task 1\WindowsAppPackagingTask1\Images\Wide310x150Logo.scale-200.png
+D:\code\SWE40006_Spring-2026\Deployment Portfolio Task 1\WindowsAppPackagingTask1\bin\AnyCPU\Debug\resources.pri
 C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net462\lib\System.Runtime.InteropServices.RuntimeInformation.dll
 C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\Microsoft.Win32.Primitives.dll
 C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\netstandard.dll
@@ -102,8 +102,8 @@ C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\Microsof
 C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Xml.XmlSerializer.dll
 C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Xml.XPath.dll
 C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Xml.XPath.XDocument.dll
-D:\code\SWE40006\AppLibrary1\bin\Debug\net10.0\AppLibrary1.dll
-D:\code\SWE40006\AppLibrary1\bin\Debug\net10.0\AppLibrary1.pdb
-D:\code\SWE40006\AppDeployTask1\bin\Debug\AppDeployTask1.exe
-D:\code\SWE40006\AppDeployTask1\bin\Debug\AppDeployTask1.exe.config
-D:\code\SWE40006\AppDeployTask1\bin\Debug\AppDeployTask1.pdb
+D:\code\SWE40006_Spring-2026\Deployment Portfolio Task 1\AppLibrary1\bin\Debug\net10.0\AppLibrary1.dll
+D:\code\SWE40006_Spring-2026\Deployment Portfolio Task 1\AppLibrary1\bin\Debug\net10.0\AppLibrary1.pdb
+D:\code\SWE40006_Spring-2026\Deployment Portfolio Task 1\AppDeployTask1\bin\Debug\AppDeployTask1.exe
+D:\code\SWE40006_Spring-2026\Deployment Portfolio Task 1\AppDeployTask1\bin\Debug\AppDeployTask1.exe.config
+D:\code\SWE40006_Spring-2026\Deployment Portfolio Task 1\AppDeployTask1\bin\Debug\AppDeployTask1.pdb

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yeBDc5D3Pgo=",
+  "dgSpecHash": "nS7+6i1k2W8=",
   "success": true,
-  "projectFilePath": "D:\\code\\SWE40006\\WindowsAppPackagingTask1\\WindowsAppPackagingTask1.wapproj",
+  "projectFilePath": "D:\\code\\SWE40006_Spring-2026\\Deployment Portfolio Task 1\\WindowsAppPackagingTask1\\WindowsAppPackagingTask1.wapproj",
   "expectedPackageFiles": [
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages\\microsoft.windows.sdk.buildtools\\10.0.26100.1742\\microsoft.windows.sdk.buildtools.10.0.26100.1742.nupkg.sha512"
   ],

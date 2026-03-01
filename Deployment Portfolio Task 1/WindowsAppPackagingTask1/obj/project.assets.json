@@ -363,11 +363,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\code\\SWE40006\\WindowsAppPackagingTask1\\WindowsAppPackagingTask1.wapproj",
+      "projectUniqueName": "D:\\code\\SWE40006_Spring-2026\\Deployment Portfolio Task 1\\WindowsAppPackagingTask1\\WindowsAppPackagingTask1.wapproj",
       "projectName": "WindowsAppPackagingTask1",
-      "projectPath": "D:\\code\\SWE40006\\WindowsAppPackagingTask1\\WindowsAppPackagingTask1.wapproj",
+      "projectPath": "D:\\code\\SWE40006_Spring-2026\\Deployment Portfolio Task 1\\WindowsAppPackagingTask1\\WindowsAppPackagingTask1.wapproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\code\\SWE40006\\WindowsAppPackagingTask1\\obj\\",
+      "outputPath": "D:\\code\\SWE40006_Spring-2026\\Deployment Portfolio Task 1\\WindowsAppPackagingTask1\\obj\\",
       "projectStyle": "PackageReference",
       "UsingMicrosoftNETSdk": false,
       "fallbackFolders": [
@@ -389,8 +389,8 @@
         "uap10.0.17763": {
           "targetAlias": "net451",
           "projectReferences": {
-            "D:\\code\\SWE40006\\AppDeployTask1\\AppDeployTask1.csproj": {
-              "projectPath": "D:\\code\\SWE40006\\AppDeployTask1\\AppDeployTask1.csproj"
+            "D:\\code\\SWE40006_Spring-2026\\Deployment Portfolio Task 1\\AppDeployTask1\\AppDeployTask1.csproj": {
+              "projectPath": "D:\\code\\SWE40006_Spring-2026\\Deployment Portfolio Task 1\\AppDeployTask1\\AppDeployTask1.csproj"
             }
           }
         }

@@ -1,0 +1,7 @@
+D:\code\SWE40006_Spring-2026\Deployment Portfolio Task 3\Task32App\publish\Task32App.exe
+D:\code\SWE40006_Spring-2026\Deployment Portfolio Task 3\Task32App\publish\appsettings.Development.json
+D:\code\SWE40006_Spring-2026\Deployment Portfolio Task 3\Task32App\publish\appsettings.json
+D:\code\SWE40006_Spring-2026\Deployment Portfolio Task 3\Task32App\publish\Task32App.dll
+D:\code\SWE40006_Spring-2026\Deployment Portfolio Task 3\Task32App\publish\Task32App.deps.json
+D:\code\SWE40006_Spring-2026\Deployment Portfolio Task 3\Task32App\publish\Task32App.runtimeconfig.json
+D:\code\SWE40006_Spring-2026\Deployment Portfolio Task 3\Task32App\publish\Task32App.pdb

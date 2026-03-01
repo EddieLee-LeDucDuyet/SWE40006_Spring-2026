@@ -10,9 +10,9 @@
   <Project Path="../WindowsAppPackagingTask1/WindowsAppPackagingTask1.wapproj" Type="c7167f0d-bc9f-4e6e-afe1-012c56b48db5">
     <Deploy />
   </Project>
-  <Project Path="../WixProjectTask1/WixProjectTask1.wixproj">
+  <Project Path="../WixProjectTask1/WixProjectTask1.wixproj" Id="ec5073cf-13e3-4aa1-9a6f-cf245cbab225">
     <Platform Project="x86" />
     <Build />
   </Project>
-  <Project Path="AppDeployTask1.csproj" />
+  <Project Path="AppDeployTask1.csproj" Id="794d5768-b59f-4542-89af-feabfca665f2" />
 </Solution>

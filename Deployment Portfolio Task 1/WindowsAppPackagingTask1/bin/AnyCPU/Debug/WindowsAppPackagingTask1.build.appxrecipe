@@ -10,49 +10,49 @@
     <PackageArchitecture>neutral</PackageArchitecture>
     <PackageIdentityName>93de2426-0905-4fe2-8246-d09189406f69</PackageIdentityName>
     <PackageIdentityPublisher>CN=Admin</PackageIdentityPublisher>
-    <IntermediateOutputPath>D:\code\SWE40006\WindowsAppPackagingTask1\obj\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>D:\code\SWE40006_Spring-2026\Deployment Portfolio Task 1\WindowsAppPackagingTask1\obj\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath></WindowsSdkPath>
-    <LayoutDir>D:\code\SWE40006\WindowsAppPackagingTask1\bin\AnyCPU\Debug\AppX</LayoutDir>
+    <LayoutDir>D:\code\SWE40006_Spring-2026\Deployment Portfolio Task 1\WindowsAppPackagingTask1\bin\AnyCPU\Debug\AppX</LayoutDir>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="D:\code\SWE40006\WindowsAppPackagingTask1\bin\AnyCPU\Debug\AppxManifest.xml">
+    <AppXManifest Include="D:\code\SWE40006_Spring-2026\Deployment Portfolio Task 1\WindowsAppPackagingTask1\bin\AnyCPU\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="D:\code\SWE40006\WindowsAppPackagingTask1\Images\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="D:\code\SWE40006_Spring-2026\Deployment Portfolio Task 1\WindowsAppPackagingTask1\Images\SplashScreen.scale-200.png">
       <PackagePath>Images\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\code\SWE40006\WindowsAppPackagingTask1\Images\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="D:\code\SWE40006_Spring-2026\Deployment Portfolio Task 1\WindowsAppPackagingTask1\Images\LockScreenLogo.scale-200.png">
       <PackagePath>Images\LockScreenLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\code\SWE40006\WindowsAppPackagingTask1\Images\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="D:\code\SWE40006_Spring-2026\Deployment Portfolio Task 1\WindowsAppPackagingTask1\Images\Square150x150Logo.scale-200.png">
       <PackagePath>Images\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\code\SWE40006\WindowsAppPackagingTask1\Images\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="D:\code\SWE40006_Spring-2026\Deployment Portfolio Task 1\WindowsAppPackagingTask1\Images\Square44x44Logo.scale-200.png">
       <PackagePath>Images\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\code\SWE40006\WindowsAppPackagingTask1\Images\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="D:\code\SWE40006_Spring-2026\Deployment Portfolio Task 1\WindowsAppPackagingTask1\Images\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\code\SWE40006\WindowsAppPackagingTask1\Images\StoreLogo.png">
+    <AppxPackagedFile Include="D:\code\SWE40006_Spring-2026\Deployment Portfolio Task 1\WindowsAppPackagingTask1\Images\StoreLogo.png">
       <PackagePath>Images\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\code\SWE40006\WindowsAppPackagingTask1\Images\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="D:\code\SWE40006_Spring-2026\Deployment Portfolio Task 1\WindowsAppPackagingTask1\Images\Wide310x150Logo.scale-200.png">
       <PackagePath>Images\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\code\SWE40006\WindowsAppPackagingTask1\bin\AnyCPU\Debug\resources.pri">
+    <AppxPackagedFile Include="D:\code\SWE40006_Spring-2026\Deployment Portfolio Task 1\WindowsAppPackagingTask1\bin\AnyCPU\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net462\lib\System.Runtime.InteropServices.RuntimeInformation.dll">
@@ -343,13 +343,13 @@
     <AppxPackagedFile Include="C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Xml.XPath.XDocument.dll">
       <PackagePath>AppDeployTask1\System.Xml.XPath.XDocument.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\code\SWE40006\AppLibrary1\bin\Debug\net10.0\AppLibrary1.dll">
+    <AppxPackagedFile Include="D:\code\SWE40006_Spring-2026\Deployment Portfolio Task 1\AppLibrary1\bin\Debug\net10.0\AppLibrary1.dll">
       <PackagePath>AppDeployTask1\AppLibrary1.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\code\SWE40006\AppDeployTask1\bin\Debug\AppDeployTask1.exe">
+    <AppxPackagedFile Include="D:\code\SWE40006_Spring-2026\Deployment Portfolio Task 1\AppDeployTask1\bin\Debug\AppDeployTask1.exe">
       <PackagePath>AppDeployTask1\AppDeployTask1.exe</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\code\SWE40006\AppDeployTask1\bin\Debug\AppDeployTask1.exe.config">
+    <AppxPackagedFile Include="D:\code\SWE40006_Spring-2026\Deployment Portfolio Task 1\AppDeployTask1\bin\Debug\AppDeployTask1.exe.config">
       <PackagePath>AppDeployTask1\AppDeployTask1.exe.config</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

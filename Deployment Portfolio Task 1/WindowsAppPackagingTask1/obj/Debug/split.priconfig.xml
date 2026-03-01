@@ -6,7 +6,7 @@
     <autoResourcePackage qualifier="DXFeatureLevel" />
     <omitSchemaFromResourcePacks />
   </packaging>
-  <index root="\" startIndexAt="D:\code\SWE40006\WindowsAppPackagingTask1\bin\AnyCPU\Debug\resources.pri">
+  <index root="\" startIndexAt="D:\code\SWE40006_Spring-2026\Deployment Portfolio Task 1\WindowsAppPackagingTask1\bin\AnyCPU\Debug\resources.pri">
     <default>
       <qualifier name="Language" value="en-US" />
       <qualifier name="Contrast" value="standard" />

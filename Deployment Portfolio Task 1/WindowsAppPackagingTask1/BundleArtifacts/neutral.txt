@@ -1,2 +1,2 @@
-MainPackage=D:\code\SWE40006\WindowsAppPackagingTask1\bin\AnyCPU\Debug\WindowsAppPackagingTask1_1.0.0.0_AnyCPU_Debug.msix
-SymbolPackage=D:\code\SWE40006\WindowsAppPackagingTask1\obj\Debug\Symbols\WindowsAppPackagingTask1_1.0.0.0_AnyCPU_Debug.appxsym
+MainPackage=D:\code\SWE40006_Spring-2026\Deployment Portfolio Task 1\WindowsAppPackagingTask1\bin\AnyCPU\Debug\WindowsAppPackagingTask1_1.0.0.0_AnyCPU_Debug.msix
+SymbolPackage=D:\code\SWE40006_Spring-2026\Deployment Portfolio Task 1\WindowsAppPackagingTask1\obj\Debug\Symbols\WindowsAppPackagingTask1_1.0.0.0_AnyCPU_Debug.appxsym

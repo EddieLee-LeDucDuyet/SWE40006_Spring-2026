@@ -1,1 +1,1 @@
-D:\code\SWE40006\WindowsAppPackagingTask1\WindowsAppPackagingTask1.wapproj;neutral
+D:\code\SWE40006_Spring-2026\Deployment Portfolio Task 1\WindowsAppPackagingTask1\WindowsAppPackagingTask1.wapproj;neutral
